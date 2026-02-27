@@ -10,4 +10,4 @@ sudo du -ahx / 2>/dev/null | sort -rh | head -n 30
 
 echo ""
 echo "======================================="
-echo "Done."
+echo "Done an looking for feature changes...."ls

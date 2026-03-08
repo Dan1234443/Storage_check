@@ -17,5 +17,9 @@ echo "Done an looking for feature changes...."
 echo "Herete has nothing is in dept but watch him grow opps system is good by the way"
 echo "......must know this......."
 echo "DAN HERETE AGHA MADE THIS CHANGE ON..."
+<<<<<<< HEAD
 echo "$(date)"
 echo "...................................End"
+=======
+echo "$(date)"
+>>>>>>> e169380e94da9d1d7d3e926304416031cfd1fc54

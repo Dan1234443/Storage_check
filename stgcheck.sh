@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# Checks entire system storage and displays the top 10 consuming files 
+# From large downwards 
+
 echo "===== FULL SYSTEM STORAGE REPORT ====="
 echo ""
 
@@ -10,3 +13,8 @@ sudo du -ahx / 2>/dev/null | sort -rh | head -n 30
 echo ""
 echo "======================================="
 echo "Done an looking for feature changes...."
+echo "Herete has nothing is in dept but watch him grow opps system is good by the way"
+echo "......must know this......."
+echo "DAN HERETE AGHA MADE THIS CHANGE ON..."
+echo "$(date)"
+echo "...................................End"

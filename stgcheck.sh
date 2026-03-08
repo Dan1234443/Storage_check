@@ -2,6 +2,7 @@
 
 # Checks entire system storage and displays the top 10 consuming files 
 # From large downwards 
+#Add
 
 echo "===== FULL SYSTEM STORAGE REPORT ====="
 echo ""
